@@ -1,0 +1,95 @@
+/* HTML */
+BODY	{background-color:#FFFFFF; color:#333333; font-family:µ¸¿ò; font-size:12px; line-height:18px; margin:0}
+
+BODY
+	{scrollbar-face-color: #E7E7E7; 
+	scrollbar-shadow-color: #6C6C6C; 
+	scrollbar-highlight-color: #FFFFFF; 
+	scrollbar-3dlight-color: #C9C9C9; 
+	scrollbar-darkshadow-color: #FFFFFF; 
+	scrollbar-track-color: #ECECE; 
+	scrollbar-arrow-color: #4F8BAD}	
+	
+TABLE, TR	{}
+TD, TH	{color:#333333; font-family:µ¸¿ò; font-size:12px; line-height:18px}
+IMG	{border:0}
+
+A:link { COLOR: #666666; TEXT-DECORATION: none}
+A:visited { COLOR: #666666; TEXT-DECORATION: none}
+A:hover { COLOR: #000000; TEXT-DECORATION: none}
+
+A.consult:link {  font-family:µ¸¿ò,Arial; font-size: 11px; color: #666666; text-decoration: none}
+A.consult:visited {  font-family:µ¸¿ò,Arial; font-size: 11px; color: #666666; text-decoration: none}
+A.consult:active {  font-family:µ¸¿ò,Arial; font-size: 11px; color: #666666; text-decoration: none}
+A.consult:hover {  font-family:µ¸¿ò,Arial; font-size: 11px; color: #000000;  text-decoration: none}
+
+
+A.subject:link {  font-family:µ¸¿ò,Arial; font-size: 12px; color: #006FA6; text-decoration: none}
+A.subject:visited {  font-family:µ¸¿ò,Arial; font-size: 12px; color: #006FA6; text-decoration: none}
+A.subject:active {  font-family:µ¸¿ò,Arial; font-size: 12px; color: #006FA6; text-decoration: none}
+A.subject:hover {  font-family:µ¸¿ò,Arial; font-size: 12px; color: #F17D00;  text-decoration: none}
+
+
+td.login{ FONT-SIZE: 11px; FONT-FAMILY:µ¸¿ò,Arial; COLOR: #B6CBDD;}
+A.login:link {  font-family:µ¸¿ò,Arial; font-size: 11px; color: #B6CBDD; text-decoration: none}
+A.login:visited {  font-family:µ¸¿ò,Arial; font-size: 11px; color: #B6CBDD; text-decoration: none}
+A.login:active {  font-family:µ¸¿ò,Arial; font-size: 11px; color: #B6CBDD; text-decoration: none}
+A.login:hover {  font-family:µ¸¿ò,Arial; font-size: 11px; color: #B6CBDD;  text-decoration: none}
+
+
+/* Contents Text */
+td.con_txt { FONT-SIZE: 12px; FONT-FAMILY:µ¸¿ò,Arial; COLOR: #6D5C3A; LINE-height:18px;}
+A.con_txt:link {  font-family:µ¸¿ò,Arial; font-size: 12px; color: #6D5C3A; text-decoration: none}
+A.con_txt:visited {  font-family:µ¸¿ò,Arial; font-size: 12px; color: #6D5C3A; text-decoration: none}
+A.con_txt:active {  font-family:µ¸¿ò,Arial; font-size: 12px; color: #6D5C3A; text-decoration: none}
+A.con_txt:hover {  font-family:µ¸¿ò,Arial; font-size: 12px; color: #6D5C3A;  text-decoration: none}
+
+td.con_txt2 { FONT-SIZE: 12px; FONT-FAMILY:µ¸¿ò,Arial; COLOR: #2F5F8C; LINE-height:18px;}
+td.con_txt3 { FONT-SIZE: 12px; FONT-FAMILY:µ¸¿ò,Arial; COLOR: #33747B; LINE-height:18px;}
+td.con_txt66 { FONT-SIZE: 12px; FONT-FAMILY:µ¸¿ò,Arial; COLOR: #666666; LINE-height:18px;}
+td.con_title { FONT-SIZE: 12px; FONT-FAMILY:µ¸¿ò,Arial; COLOR: #345C60; LINE-height:18px;}
+
+/* Popup text */
+td.pop_txt1 { FONT-SIZE: 12px; FONT-FAMILY:µ¸¿ò,Arial; COLOR: #785E2B; LINE-height:18px;}
+td.pop_txtcc { FONT-SIZE: 12px; FONT-FAMILY:µ¸¿ò,Arial; COLOR: #cc0000; LINE-height:18px;}
+td.pop_txt45 { FONT-SIZE: 12px; FONT-FAMILY:µ¸¿ò,Arial; COLOR: #45512B; LINE-height:18px;}
+
+td.schedule{ FONT-SIZE: 11px; FONT-FAMILY:µ¸¿ò,Arial; COLOR: #475055; LINE-height:15px;}  
+td.consult{ FONT-SIZE: 11px; FONT-FAMILY:µ¸¿ò,Arial; COLOR: #666666; LINE-height:15px;}
+td.lesson{ FONT-SIZE: 11px; FONT-FAMILY:µ¸¿ò,Arial; COLOR: #666666; LINE-height:15px;}
+
+
+input.board_search {font-family:µ¸¿ò,Arial; font-size:12px ; border:solid 1px #CDCEC8; background-color:#ffffff;height:21}
+input.sub_login{font-family:µ¸¿ò,Arial; font-size:11px ; border:solid 1px #CDCDCD; background-color:#ffffff;height:18}
+input.login{font-family:µ¸¿ò,Arial; font-size:11px ; border:solid 1px #ffffff; background-color:#A6D2E5;height:16}
+
+     .common{BACKGROUND: #ffffff; FONT-SIZE: 12px; COLOR: #000000;  FONT-FAMILY:µ¸¿ò,Arial}
+
+
+select.notice{font-family:µ¸¿ò; font-size:12px ; border-width:1; border-color:#bebebe; border-style:solid; background-color:#efefef;color:#636363;}
+select.homepage{font-family:µ¸¿ò; font-size:12px ; border-width:1; border-color:#CDCEC6; border-style:solid; background-color:#ffffff;color:#626262;}
+
+/* Notice */
+.txt_notice	{color:#626262; font-family:µ¸¿ò; font-size:12px; line-height:18px}
+
+
+.date_notice	{color:#769AA2; font-family:µ¸¿ò; font-size:12px; line-height:18px}
+
+
+/* Counsell */
+.txt_coun {color:#535353; font-family:µ¸¿ò; font-size:11px; line-height:18px}
+
+
+/* IMG */
+.bu01	{margin:0 10 0 10}
+.bu02	{margin:0 9 2 0}
+.bu03	{margin:0 5 2 0}
+.bu04	{margin:9 0 0 0}
+
+
+/* select box */
+.selectBoxSelectedArea {color:#666666; background-color:; font-size:11px; font-family:"µ¸¿ò"; padding-top:2px; line-height:17px; padding-left:5px; letter-spacing:-1px;}
+.selectBoxSelectedAreaFocus {color:#000000; background-color:#F3F3F3; font-size:11px; font-family:"µ¸¿ò"; padding-top:2px; line-height:17px; padding-left:5px; letter-spacing:-1px;}
+.selectBoxOption {color:#666666; background-color:#FFFFFF; font-size:11px; font-family:"µ¸¿ò"; padding-top:2px; line-height:17px; padding-left:5px; letter-spacing:-1px;}
+.selectBoxOptionOver {color:#000000; background-color:#F3F3F3; font-size:11px; font-family:"µ¸¿ò"; padding-top:2px; line-height:17px; padding-left:5px; letter-spacing:-1px;}
+.selectBoxOptionInnerLayer {overflow:auto;background-color:#FFFFFF;}
